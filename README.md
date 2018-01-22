@@ -1,2 +1,2 @@
-# testApi
-test
+# bndapi
+just an api

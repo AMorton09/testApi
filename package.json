@@ -1,0 +1,19 @@
+{
+  "name": "BandWagginApi",
+  "version": "1.0.0",
+  "description": "API for mobile app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4",
+    "body-parser": "^1.18.2",
+    "morgan": "^1.9.0"
+  },
+  "scripts": {
+    "test": "echo Beep Boop Bop",
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/jpizzitola/bndapi.git",
+  "author": "Andrew Morton <morton09@me.com>",
+  "license": ""
+}
